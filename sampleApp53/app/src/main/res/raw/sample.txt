@@ -1,0 +1,89 @@
+1. One scientist cultured Cladophora in a suspension of Azotobacter and illuminated the culture by splitting light through a prism. He observed that bacteria accumulated mainly in the region of (a) violet and green light (b) indigo and green light (c) orange and yellow light (d) blue and red light
+2. Oxygen is not produced during photosynthesis by (a) Green sulphur bacteria (b) Nostoc (c) Cycas (d) Chara
+3. Anoxygenic photosynthesis is characteristic of (a) Rhodospirillum (b) Spirogyra (c) Chlamydomonas (d) Ulva.
+4. Oxygenic photosynthesis occurs in (a) Oscillatoria (b) Rhodospirillum (c) Chlorobium (d) Chromatium.
+5. Stroma in the chloroplasts of higher plant contains (a) light-dependent reaction enzymes (b) ribosomes (c) chlorophyll (d) light-independent reaction enzymes
+6. Emerson’s enhancement effect and Red drop have been instrumental in the discovery of (a) photophosphorylation and cyclic electron transport (b) oxidative phosphorylation (c) photophosphorylation and non-cyclic electron transport (d) two photosystems operating simultaneously
+7. Chromatophores take part in (a) movement (b) respiration (c) photosynthesis (d) growth
+8. Which fractions of the visible spectrum of solar radiations are primarily absorbed by carotenoids of the higher plants? (a) Blue and green (b) Green and red (c) Red and violet (d) Violet and blue
+9. Which element is located at the centre of the porphyrin ring in chlorophyll? (a) Calcium (b) Magnesium (c) Potassium (d) Manganese
+10. Chlorophyll a molecule at its carbon atom 3 of the pyrrole ring II has one of the following (a) carboxylic group (b) magnesium (c) aldehyde group (d) methyl group.
+11. The core metal of chlorophyll is (a) Ni (b) Cu (c) Fe (d) Mg.
+12. Chlorophyll a occurs in (a) all photosynthetic autotrophs (b) in all higher plants (c) all oxygen liberating autotrophs (d) all plants except fungi.
+13. Photosynthetic pigments found in the chloroplasts occur in (a) thylakoid membranes (b) plastoglobules (c) matrix (d) chloroplast envelope
+14. The size of chlorophyll molecule is (a) head 15 × 15 Å, tail 25 Å (b) head 20 × 20 Å, tail 25 Å (c) head 15 × 15 Å, tail 20 Å (d) head 10 × 12 Å, tail 25 Å.
+15. Which of the following is not a product of light reaction of photosynthesis? (a) ATP (b) NADH (c) NADPH (d) Oxygen
+16. Which of the following absorb light energy for photosynthesis? (a) Chlorophyll (b) Water molecule (c) O2 (d) RuBP
+17. The first step for initiation of photosynthesis will be (a) photolysis of water (b) excitement of chlorophyll molecules due to absorption of light (c) ATP formation (d) glucose formation.
+18. NADPH2 is generated through (a) photosystem II (b) anaerobic respiration (c) glycolysis (d) photosystem I.
+19. Which of the following pigments acts as a reactioncentre during photosynthesis? (a) Carotene (b) Phytochrome (c) P700 (d) Cytochrome
+20. Ferredoxin is a constituent of (a) PS I (b) PS II (c) Hill reaction (d) P680.
+21. In light reaction, plastoquinone facilitates the transfer of electrons from (a) PS-II to Cytb6f complex (b) Cytb6f complex to PS-I (c) PS-I to NADP+ (d) PS-I to ATP synthase
+22. In a chloroplast the highest number of protons are found in (a) intermembrane space (b) antennae complex (c) stroma (d) lumen of thylakoids.
+23. Read the following four statements (A – D). (A) Both photophosphorylation and oxidative phosphorylation involve uphill transport of protons across the membrane. (B) In dicot stems, a new cambium originates from cells of pericycle at the time of secondary growth. (C) Stamens in flowers of Gloriosa and Petunia are polyandrous. (D) Symbiotic nitrogen fixers occur in free-living state also in soil. How many of the above statements are right? (a) Two (b) Three (c) Four (d) One
+24. Which one of the following is essential for photolysis of water? (a) Manganese (b) Zinc (c) Copper (d) Boron
+25. Read the following four statements, (i), (ii), (iii) and (iv) and select the right option having both correct statements. Statements : (i) Z scheme of light reaction takes place in presence of PSI only. (ii) Only PSI is functional in cyclic photophosphorylation. (iii)Cyclic photophosphorylation results into synthesis of ATP and NADPH2. (iv) Stroma lamellae lack PSII as well as NADP. (a) (ii) and (iv) (b) (i) and (ii) (c) (ii) and (iii) (d) (iii) and (iv)
+26. Cyclic photophosphorylation results in the formation of (a) ATP and NADPH (b) ATP, NADPH and O2 (c) ATP (d) NADPH.
+27. Electrons from excited chlorophyll molecule of photosystem II are accepted first by (a) quinone (b) ferredoxin (c) cytochrome-b (d) cytochrome-f.
+28. The first acceptor of electrons from an excited chlorophyll molecule of photosystem II is (a) iron-sulphur protein(b) ferredoxin (c) quinone (d) cytochrome
+29. In photosystem I, the first electron acceptor is (a) an iron-sulphur protein (b) ferredoxin (c) cytochrome (d) plastocyanin
+30. Which one of the following concerns photophosphorylation? (a) ADP + AMP ATP Light energy (b) ADP + Inorganic PO4 ATP Light energy (c) ADP + Inorganic PO4 ATP (d) AMP + Inorganic PO4 ATP Light energy
+31. In photosynthesis energy from light reaction to dark reaction is transferred in the form of (a) ADP (b) ATP (c) RuDP (d) chlorophyll.
+32. Which pigment system is inactivated in red drop? (a) PS-I and PS-II (b) PS-I (c) PS-II (d) None of these
+33. During light reaction of photosynthesis, which of the following phenomenon is observed during cyclic phosphorylation as well as non-cyclic phosphorylation? (a) Release of O2 (b) Formation of ATP (c) Formation of NADPH (d) Involvement of PS I and PS II pigment systems
+34. A photosynthesising plant is releasing 18O more than the normal. The plant must have been supplied with (a) O3 (b) H2O with 18O (c) CO2 with 18O (d) C6H12O6 with 18O.
+35. Photosystem II occurs in (a) stroma (b) cytochrome (c) grana (d) mitochondrial surface. (1992) 36. NADP+ is reduced to NADPH in (a) PS I (b) PS II (c) Calvin cycle (d) noncyclic photophosphorylation.
+37. In photosynthesis, the light-independent reactions take place at (a) photosystem II (b) stromal matrix (c) thylakoid lumen (d) photosystem I.
+38. Which one of the following organisms is correctly matched with its three characteristics? (a) Pea: C3 pathway, endospermic seed, vexillary aestivation (b) Tomato: twisted aestivation, axile placentation, berry (c) Onion: bulb, imbricate aestivation, axile placentation (d) Maize: C3 pathway, closed vascular bundles, scutellum
+39. PGA as the first CO2 fixation product was discovered in photosynthesis of (a) bryophyte (b) gymnosperm (c) angiosperm (d) alga
+40. The chemiosmotic coupling hypothesis of oxidative phosphorylation proposes that adenosine triphosphate (ATP) is formed because (a) a proton gradient forms across the inner membrane (b) there is a change in the permeability of the inner mitochondrial membrane toward adenosine diphosphate (ADP) (c) high energy bonds are formed in mitochondrial proteins (d) ADP is pumped out of the matrix into the intermembrane space
+41. Chemiosmotic theory of ATP synthesis in the chloroplasts and mitochondria is based on (a) membrane potential (b) accumulation of Na+ ions (c) accumulation of K+ ions (d) proton gradient.
+42. In C3 plants, the first stable product of photosynthesis during the dark reaction is (a) malic acid (b) oxaloacetic acid (c) 3-phosphoglyceric acid (d) phosphoglyceraldehyde.
+43. For assimilation of one CO2 molecule, the energy required in form of ATP and NADPH2 are (a) 2 ATP and 2 NADPH2 (b) 5 ATP and 3 NADPH2 (c) 3 ATP and 2NADPH2 (d) 18 ATP and 12 NADPH2.
+44. For the synthesis of one glucose molecule the Calvin cycle operates for (a) 2 times (b) 4 times (c) 6 times (d) 8 times
+45. Carbon dioxide acceptor in C3-plants is (a) PGA (b) PEP (c) RuDP (d) none of these
+46. The mechanism of ATP formation both in chloroplast and mitochondria is explained by (a) chemiosmotic theory (b) Munch’s hypothesis (mass flow model) (c) relay pump theory of Godlewski (d) Cholodny-Wont’s model
+47. What will be the number of Calvin cycles to generate one molecule of hexose? (a) 8 (b) 9 (c) 4 (d) 6
+48. The primary acceptor, during CO2 fixation in C3 plants, is (a) phosphoenolpyruvate (PEP) (b) ribulose 1, 5-diphosphate (RuDP) (c) phosphoglyceric acid (PGA) (d) ribulose monophosphate (RMP)
+49. The carbon dioxide acceptor in Calvin cycle/ C3-plants is (a) phosphoenol pyruvate (PEP) (b) ribulose 1, 5-diphosphate (RuDP) (c) phosphoglyceric acid (PGA) (d) ribulose monophosphate (RMP).
+50. Which technique has helped in investigation of Calvin cycle? (a) X-ray crystallography (b) X-ray technique (c) Radioactive isotope technique (d) Intermittent light
+51. Dark reactions of photosynthesis occur in (a) granal thylakoid membranes (b) stromal lamella membranes (c) stroma outside photosynthetic lamellae (d) periplastidial space
+52. Carbon dioxide joins the photosynthetic pathway in (a) PS I (b) PS II (c) light reaction (d) dark reaction
+53. Phosphoenol pyruvate (PEP) is the primary CO2 acceptor in (a) C4 plants (b) C2 plants (c) C3 and C4 plants (d) C3 plants.
+54. A plant in your garden avoids photorespiratory losses, has improved water use efficiency, shows high rates of photosynthesis at high temperatures and has improved efficiency of nitrogen utilisation. In which of the following physiological groups would you assign this plant? (a) CAM (b) Nitrogen fixer (c) C3 (d) C4
+55. Bundle sheath cells (a) are rich in PEP carboxylase (b) lack RuBisCO (c) lack both RuBisCO and PEP carboxylase (d) are rich in RuBisCO.
+56. CAM helps the plants in (a) conserving water (b) secondary growth (c) disease resistance (d) reproduction
+57. In kranz anatomy, the bundle sheath cells have (a) thin walls, many intercellular spaces and no chloroplasts (b) thick walls, no intercellular spaces and large number of chloroplasts (c) thin walls, no intercellular spaces and several chloroplasts (d) thick walls, many intercellular spaces and few chloroplasts.
+58. Study the pathway given below. Atmospheric CO2 mesophyll cell Bundle sheath cell Plasmadesmata Plasma membrane Cell wall HCO Phosphoenol- 3 – pyruvate Cell wall C acid 4 C acid 3 Transport Transport Fixation by Calvin cycle C acid 4 C acid 3 CO2 In which of the following options correct words for all the three blanks A, B and C are indicated? A B C (a) Decarboxylation Reduction Regeneration (b) Fixation Transamination Regeneration (c) Fixation Decarboxylation Regeneration (d) Carboxylation Decarboxylation Reduction
+59. Kranz anatomy is one of the characteristics of the leaves of (a) potato (b) wheat (c) sugarcane (d) mustard.
+60. The C4 plants are photosynthetically more efficient than C3 plants because (a) the CO2 efflux is not prevented (b) they have more chloroplasts (c) the CO2 compensation point is more (d) CO2 generated during photorespiration is trapped and recycled through PEP carboxylase
+61. In leaves of C4 plants, malic acid synthesis during CO2 fixation occurs in (a) bundle sheath (b) guard cells (c) epidermal cells (d) mesophyll cells
+62. In the leaves of C4 plants, malic acid formation during CO2 fixation occurs in the cells of (a) bundle sheath (b) phloem (c) epidermis (d) mesophyll.
+63. As compared to a C3-plant, how many additional molecules of ATP are needed for net production of one molecule of hexose sugar by C4-plants? (a) Two (b) Six (c) Twelve (d) Zero
+64. Photosynthesis in C4 plants is relatively less limited by atmospheric CO2 levels because (a) effective pumping of CO2 into bundle sheath cells (b) RuBisCO in C4 plants has higher affinity for CO2 (c) four carbon acids are the primary initial CO2 fixation products (d) the primary fixation of CO2 is mediated via PEP carboxylase.
+65. In sugarcane plant 14CO2 is fixed to malic acid, in which the enzyme that fixes CO2 is (a) ribulose biphosphate carboxylase (b) phosphoenol pyruvic acid carboxylase (c) ribulose phosphate kinase (d) fructose phosphatase.
+66. Stomata of CAM plants (a) are always open (b) open during the day and close at night (c) open during the night and close during the day (d) never open
+67. Which pair is wrong? (a) C3-maize (b) C4-kranz anatomy (c) Calvin cycle-PGA (d) Hatch and Slack cycle - OAA
+68. Which is the first CO2 acceptor enzyme in C4 plants? (a) RuDP carboxylase (b) Phosphoric acid (c) RuBisCO (d) PEP- carboxylase
+69. In C4 plants, CO2 combines with (a) phosphoenol pyruvate (b) phosphoglyceraldehyde (c) phosphoglyceric acid (d) ribulose diphosphate.
+70. In C4 plants, CO2 fixation is done by (a) sclerenchyma (b) chlorenchyma and hypodermis (c) mesophyll cells (d) guard cells.
+71. The CO2 fixation during C4 pathway occurs in the chloroplast of (a) guard cells (b) bundle sheath cells (c) mesophyll cells (d) spongy parenchyma
+72. Which one is a C4-plant? (a) Papaya (b) Pea (c) Potato (d) Maize/corn (1993) 73. The enzyme that catalyses carbon dioxide fixation in C4 plants is (a) RuBP carboxylase (b) PEP carboxylase (c) carbonic anhydrase (d) carboxydismutase.
+74. The first carbon dioxide acceptor in C4-plants is (a) phosphoenol-pyruvate (b) ribulose 1, 5-diphosphate (c) oxaloacetic acid (d) phosphoglyceric acid.
+75. Kranz anatomy is typical of (a) C4 plants (b) C3 plants (c) C2 plants (d) CAM plants
+76. In C4 plants, Calvin cycle operates in (a) stroma of bundle sheath chloroplasts (b) grana of bundle sheath chloroplasts (c) grana of mesophyll chloroplasts (d) stroma of mesophyll chloroplasts
+77. The oxygenation activity of RuBisCO enzyme in photorespiration leads to the formation of (a) 2 molecules of 3-C compound (b) 1 molecule of 3-C compound (c) 1 molecule of 6-C compound (d) 1 molecule of 4-C compound and 1 molecule of 2-C compound
+78. The process which makes major difference between C3 and C4 plants is (a) glycolysis (b) Calvin cycle (c) photorespiration (d) respiration.
+79. A process that makes important difference between C3 and C4 plants is (a) transpiration (b) glycolysis (c) photosynthesis (d) photorespiration.
+80. The correct sequence of cell organelles during photorespiration is (a) chloroplast, Golgi-bodies, mitochondria (b) chloroplast, rough endoplasmic reticulum, dictyosomes (c) chloroplast, mitochondria, peroxisome (d) chloroplast, vacuole, peroxisome.
+81. C4 plants are more efficient in photosynthesis than C3 plants due to (a) higher leaf area (b) presence of larger number of chloroplasts in the leaf cells (c) presence of thin cuticle (d) lower rate of photorespiration.
+82. During photorespiration, the oxygen consuming reaction(s) occur in (a) stroma of chloroplasts (b) stroma of chloroplasts and mitochondria (c) stroma of chloroplasts and peroxisomes (d) grana of chloroplasts and peroxisomes.
+83. Which one of the following is wrong in relation to photorespiration? (a) It occurs in chloroplast. (b) It occurs in day time only. (c) It is a characteristic of C4 plants. (d) It is a characteristic of C3 plants
+84. Photorespiration is favoured by (a) high temperature and low O2 (b) high humidity and temperature (c) high O2 and low CO2 (d) high CO2 and low O2.
+85. The substrate for photorespiration is (a) phosphoglyceric acid (b) glycolate (c) serine (d) glycine.
+86. With reference to factors affecting the rate of photosynthesis, which of the following statements is not correct? (a) Increasing atmospheric CO2 concentration up to 0.05% can enhance CO2 fixation rate. (b) C3 plants respond to higher temperature with enhanced photosynthesis while C4 plants have much lower temperature optimum. (c) Tomato is a greenhouse crop which can be grown in CO2-enriched atmosphere for higher yield. (d) Light saturation for CO2 fixation occurs at 10% of full sunlight.
+87. Plants adapted to low light intensity have (a) larger photosynthetic unit size than the sun plants (b) higher rate of CO2 fixation than the sun plants (c) more extended root system (d) leaves modified to spines
+88. The rate of photosynthesis is higher in (a) very high light (b) continuous light (c) red light (d) green light.
+89. ‘The law of limiting factors’ was proposed by (a) Leibig (b) Hatch and Slack (c) Blackman (d) Arnon.
+90. At a temperature above 35ºC (a) rate of photosynthesis will decline earlier than that of respiration (b) rate of respiration will decline earlier than that of photosynthesis (c) there is no fixed pattern (d) both decline simultaneously.
+91. During monsoon, the rice crop of eastern states of India shows lesser yield due to limiting factor of (a) CO2 (b) light (c) temperature (d) water

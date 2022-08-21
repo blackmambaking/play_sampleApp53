@@ -1,0 +1,138 @@
+1. Five kingdom system of classification suggested by R.H. Whittaker is not based on (a) presence or absence of a well defined nucleus (b) mode of reproduction (c) mode of nutrition (d) complexity of body organisation.
+2. Maximum nutritional diversity is found in the group (a) fungi (b) animalia (c) monera (d) plantae
+3. In the five kingdom classification, Chlamydomonas and Chlorella have been included in (a) protista (b) algae (c) plantae(d) monera.
+4. In which kingdom would you classify the archaea and nitrogen-fixing organisms, if the five kingdom system of classification is used? (a) Plantae (b) Fungi (c) Protista (d) Monera
+5. In five kingdom system, the main basis of classification is (a) structure of nucleus (b) mode of nutrition (c) structure of cell wall (d) asexual reproduction.
+6. In the five kingdom system of classification, which single kingdom out of the following can include blue-green algae, nitrogen fixing bacteria and methanogenic archaebacteria? (a) Plantae (b) Protista (c) Monera (d) Fungi
+7. BGA (blue green algae) are included in which of the following groups? (a) Bryophytes (b) Prokaryotes (c) Protista (d) Fungi
+8. An important criterion for modern day classification is (a) resemblances in morphology (b) anatomical and physiological traits (c) breeding habits (d) presence or absence of notochord.
+9. Match the organisms in column-I with habitats in column-II. Column-I Column-II A. Halophiles (i) Hot springs B. Thermoacidophiles (ii) Aquatic environment C. Methanogens (iii)Guts of ruminants D. Cyanobacteria (iv) Salty area Select the correct answer from the options given below. (a) A-(iv), B-(i), C-(iii), D-(ii) (b) A-(i), B-(ii), C-(iii), D-(iv) (c) A-(iii), B-(iv), C-(ii), D-(i) (d) A-(ii), B-(iv), C-(iii), D-(i)
+10. Which of the following are found in extreme saline conditions? (a) Eubacteria (b) Cyanobacteria (c) Mycobacteria (d) Archaebacteria
+11. Which among the following are the smallest living cells, known without a definite cell wall, pathogenic to plants as well as animals and can survive without oxygen? (a) Pseudomonas (b) Mycoplasma (c) Nostoc (d) Bacillus
+12. Which of the following components provides sticky character to the bacterial cell? (a) Nuclear membrane (b) Plasma membrane (c) Glycocalyx (d) Cell wall
+13. DNA replication in bacteria occurs (a) within nucleolus (b) prior to fission (c) just before transcription (d) during S phase
+14. Methanogens belong to (a) eubacteria (b) archaebacteria (c) dinoflagellates (d) slime moulds
+15. The primitive prokaryotes responsible for the production of biogas from the dung of ruminant animals, include the (a) methanogens (b) eubacteria (c) halophiles (d) thermoacidophiles
+16. Archaebacteria differ from eubacteria in (a) cell membrane structure (b) mode of nutrition (c) cell shape (d) mode of reproduction
+17. Which of the following are likely to be present in deep sea water?(a) Blue-green algae (b) Saprophytic fungi (c) Archaebacteria (d) Eubacteria
+18. Pigment containing membranous extensions in some cyanobacteria are (a) pneumatophores (b) chromatophores (c) heterocysts (d) basal bodies.
+19. The cyanobacteria are also referred to as (a) protists (b) golden algae (c) slime moulds (d) blue green algae
+20. The most abundant prokaryotes helpful to humans in making curd from milk and in production of antibiotics are the ones categorisedas (a) cyanobacteria (b) archaebacteria (c) chemosynthetic autotrophs (d) heterotrophic bacteria
+21. In eubacteria, a cellular component that resembles eukaryotic cell is (a) plasma membrane (b) nucleus (c) ribosomes (d) cell wall
+22. Some hyperthermophilic organisms that grow in highly acidic (pH 2) habitats belong to the two groups (a) eubacteria and archaea (b) cyanobacteria and diatoms (c) protists and mosses (d) liverworts and yeasts
+23. Select the correct combination of the statements (i-iv) regarding the characteristics of certain organisms. (i) Methanogens are archaebacteria which produce methane in marshy areas. (ii) Nostoc is a filamentous blue-green alga which fixes atmospheric nitrogen. (iii)Chemosynthetic autotrophic bacteria synthesize cellulose from glucose. (iv) Mycoplasma lack a cell wall and can survive without oxygen. The correct statements are (a) (ii) and (iii) (b) (i),(ii) and (iii) (c) (ii), (iii) and (iv) (d) (i), (ii) and (iv)
+24. Bacterial leaf blight of rice is caused by a species (a) Alternaria (b) Erwinia (c) Xanthomonas (d) Pseudomonas
+25. Thermococcus, Methanococcus and Methanobacterium exemplify (a) bacteria whose DNA is relaxed or positively supercoiled but which have a cytoskeleton as well as mitochondria (b) bacteria that contain a cytoskeleton and ribosomes (c) archaebacteria that contain protein homologous to eukaryotic core histones (d) archaebacteria that lack any histones resembling those found in eukaryotes but whose DNA is negatively supercoiled
+26. In the light of recent classification of living organisms into three domains of life (bacteria, archaea and eukarya), which one of the following statements is true about archaea? (a) Archaea completely differ from both prokaryotes and eukaryotes. (b) Archaea completely differ from prokaryotes. (c) Archaea resemble eukarya in all respects. (d) Archaea have some novel features that are absent in other prokaryotes and eukaryotes.
+27. Which one of the following statements about mycoplasma is wrong? (a) They are pleomorphic. (b) They are sensitive to penicillin. (c) They cause diseases in plants. (d) They are also called PPLO
+28. Curing of tea leaves is brought about by the activity of (a) fungi (b) bacteria (c) mycorrhiza (d) viruses.
+29. All of the following statements concerning the actinomycetous filamentous soil bacterium Frankia are correct except that Frankia (a) can induce root nodules on many plant species (b) can fix nitrogen in the free-living state (c) cannot fix specialized vesicles in which the nitrogenase is protected from oxygen by a chemical barrier involving triterpene hopanoids (d) like Rhizobium, it usually infects its host plant through root hair deformation and stimulates cell proliferation in the host’s cortex.
+30. For retting of jute the fermenting microbe used is (a) methanophilic bacteria (b) butyric acid bacteria (c) Helicobacter pylori (d) Streptococcus lactin.
+31. Basophilic prokaryotes (a) grow and multiply in very deep marine sediments (b) occur in water containing high concentrations of barium hydroxide (c) readily grow and divide in sea water enriched in any soluble salt of barium (d) grow slowly in highly alkaline frozen lakes at high altitudes.
+32. Which statement is correct for bacterial transduction? (a) Transfer of some genes from one bacteria to another bacteria through virus. (b) Transfer of genes from one bacteria to another bacteria by conjugation. (c) Bacteria obtained its DNA directly from mother cell. (d) Bacteria obtained DNA from other external source.
+33. In bacteria, plasmid is (a) extra chromosomal material (b) main DNA (c) non functional DNA (d) repetitive gene.
+34. Organisms which obtain energy by the oxidation of reduced inorganic compounds are called (a) photoautotrophs (b) chemoautotrophs (c) saprozoic (d) coproheterotrophs.
+35. What is true for archaebacteria? (a) All halophiles (b) All photosynthetics (c) All fossils (d) Oldest living beings
+36. Difference in Gram positive and Gram negative bacteria is due to (a) cell wall (b) cell membrane (c) ribosome (d) cytoplasm.
+37. Transfer of genetic information from one bacterium to another in the transduction process is through (a) bacteriophages released from the donor bacterial strain (b) another bacterium having special organ for conjugation (c) physical contact between donor and recipient strains (d) conjugation between opposite strain bacterium.
+38. A bacterium divides every 35 minutes. If a culture containing 105 cells per mL is grown for 175 minutes, what will be the cell concentration per mL after 175 minutes? (a) 35 × 105 cells (b) 32 × 105 cells (c) 175 × 105 cells (d) 85 × 105 cells
+39. The DNA of E.coli is (a) double stranded and linear (b) double stranded and circular (c) single stranded and linear (d) single stranded and circular
+40. The main role of bacteria in the carbon cycle involves (a) chemosynthesis (b) digestion or breakdown of organic compounds (c) photosynthesis (d) assimilation of nitrogenous compounds.
+41. A few organisms are known to grow and multiply at temperatures of 100-105o C. They belong to (a) thermophilic sulphur bacteria (b) hot spring blue-green algae (c) methanogenic archaebacteria (d) marine archaebacteria.
+42. The hereditary material present in the bacterium E.coli is (a) single-stranded DNA (b) double-stranded DNA (c) DNA (d) RNA
+43. Azotobacter and Bacillus polymyxa are the examples of (a) pathogenic bacteria (b) decomposers (c) symbiotic N2 fixer (d) non-symbiotic N2 fixer
+44. What are the sex organs provided in some bacteria? (a) Sex pili (b) Plasmid (c) Circular DNA (d) Gametes
+45. Which type of DNA is found in bacteria? (a) Circular free DNA (b) Membrane bound DNA (c) Straight DNA (d) Helical DNA
+46. A large number of organic compounds can be decomposed by (a) Azotobacter (b) Chemolithotrophs (c) Mycoplasma (d) Pseudomonas.
+47. Many blue-green algae occur in thermal springs (hot-water springs). The temperature tolerance of these algae have been attributed to their (a) mitochondrial structure (b) importance of homopolar bonds in their proteins (c) cell wall structure (d) modern cell organization
+48. Organisms, which fix atmospheric nitrogen in the soil, fall under the category of (a) bacteria (b) green algae (c) soil fungi (d) mosses.
+49. Transduction in bacteria is mediated by (a) plasmid vectors (b) phage vectors (c) cosmids (d) F-factors.
+50. Genophore/bacterial genome or nucleoid is made of (a) histones and non-histones (b) RNA and histones (c) a single double stranded DNA (d) a single stranded DNA
+51. Escherichia coli is used extensively in biological research as it is (a) easily cultured (b) easily available (c) easy to handle (d) easily multiplied in host.
+52. Bacteria lack alternation of generation because there is (a) neither syngamy nor reduction division (b) distinct chromosomes are absent (c) no conjugation (d) no exchange of genetic material.
+53. Name the organisms which do not derive energy directly or indirectly from sun. (a) Chemosynthetic bacteria (b) Pathogenic bacteria (c) Symbiotic bacteria (d) Mould
+54. The main difference in Gram (+)ve and Gram (–)ve bacteria resides in their (a) cell wall (b) cell membrane (c) cytoplasm (d) flagella.
+55. Which one belongs to Monera? (a) Amoeba (b) Escherichia (c) Gelidium (d) Spirogyra
+56. Which of the following organisms are known as chief producers in the oceans? (a) Dinoflagellates (b) Diatoms (c) Cyanobacteria (d) Euglenoids
+57. Ciliates differ from all other protozoans in (a) using flagella for locomotion (b) having a contractile vacuole for removing excess water (c) using pseudopodia for capturing prey (d) having two types of nuclei
+58. Select the wrong statement. (a) The walls of diatoms are easily destructible. (b) ‘Diatomaceous earth’ is formed by the cell walls of diatoms. (c) Diatoms are chief producers in the oceans. (d) Diatoms are microscopic and float passively in water
+59. Chrysophytes, Euglenoids, Dinoflagellates and Slime moulds are included in the Kingdom (a) Fungi (b) Animalia (c) Monera (d) Protista.
+60. In which group of organisms the cell walls form two thin overlapping shells which fit together? (a) Dinoflagellates (b) Slime moulds (c) Chrysophytes (d) Euglenoids
+61. Which one of the following organisms is not an eukaryote? (a) Paramecium caudatum (b) Escherichia coli (c) Euglena viridis (d) Amoeba proteus
+62. Which one of the following is a slime mould? (a) Physarum (b) Thiobacillus (c) Anabaena (d) Rhizopus
+63. Auxospores and hormogonia are formed, respectively, by (a) some diatoms and several cyanobacteria (b) some cyanobacteria and many diatoms (c) several cyanobacteria and several diatoms (d) several diatoms and a few cyanobacteria.
+64. When a fresh-water protozoan possessing a contractile vacuole, is placed in a glass containing marine water, the vacuole will (a) increase in number (b) disappear (c) increase in size (d) decrease in size.
+65. The chief advantage of encystment of an Amoeba is (a) the ability to survive during adverse physical conditions (b) the ability to live for sometime without ingesting food (c) protection from parasites and predators (d) the chance to get rid of accumulated waste products.
+66. In which of the following animals dimorphic nucleus is found? (a) Amoeba proteus (b) Trypanosoma gambiense (c) Plasmodium vivax (d) Paramecium caudatum
+67. In protozoa like Amoeba and Paramecium, the organ for osmoregulation is (a) contractile vacuole (b) mitochondria (c) nucleus (d) food vacuole.
+68. Which of the following organisms possesses characteristics of a plant and an animal? (a) Euglena (b) Paramecium (c) Bacteria (d) Mycoplasma
+69. The function of contractile vacuole, in protozoa, is (a) osmoregulation (b) reproduction (c) locomotion (d) digestion of food.
+70. The protists have (a) only free nucleic acid aggregates  (b) membrane bound nucleoproteins lying embedded in the cytoplasm (c) gene containing nucleoproteins condensed together in loose mass (d) nucleoprotein in direct contact with the rest of the cell substance.
+71. In Amoeba and Paramecium osmoregulation occurs through (a) pseudopodia (b) nucleus (c) contractile vacuole (d) general surface.
+72. Plasmodium, the malarial parasite, belongs to class (a) sarcodina (b) ciliata (c) sporozoa (d) dinophyceae.
+73. Which is true about Trypanosoma? (a) Polymorphic (b) Monogenetic (c) Facultative parasite (d) Non-pathogenic
+74. Genetic information in Paramecium is contained in (a) micronucleus(b) macronucleus (c) both micronucleus and macronucleus (d) mitochondria.
+75. Trypanosoma belongs to Class (a) Sarcodina (b) Zooflagellata (c) Ciliata (d) Sporozoa.
+76. Which of the following statements is incorrect? (a) Yeasts have filamentous bodies with long thread like hyphae. (b) Morels and truffles are edible delicacies. (c) Claviceps is a source of many alkaloids and LSD. (d) Conidia are produced exogenously and ascospores endogenously.
+77. Match column -I with column - II. Column-I Column-II A. Saprophyte (i) Symbiotic association of fungi with plant roots B. Parasite (ii) Decomposition of dead organic materials C. Lichens (iii) Living on living plants or animals D. Mycorrhiza (iv) Symbiotic association of algae and fungi Choose the correct answer from the options given below. (A) (B) (C) (D) (a) (ii) (iii) (iv) (i) (b) (i) (ii) (iii) (iv) (c) (iii) (ii) (i) (iv) (d) (ii) (i) (iii) (iv)
+78. Which among the following is not a prokaryote? (a) Saccharomyces (b) Mycobacterium (c) Nostoc (d) Oscillatoria
+79. After karyogamy followed by meiosis, spores are produced exogenously in (a) Neurospora (b) Alternaria (c) Agaricus (d) Saccharomyces.
+80. Which one of the following is wrong for fungi? (a) They are eukaryotic. (b) All fungi possess a purely cellulosic cell wall. (c) They are heterotrophic. (d) They are both unicellular and multicellular.
+81. Which one of the following statements is wrong? (a) Eubacteria are also called false bacteria. (b) Phycomycetes are also called algal fungi. (c) Cyanobacteria are also called blue-green algae. (d) Golden algae are also called desmids.
+82. One of the major components of cell wall of most fungi is (a) cellulose (b) hemicellulose (c) chitin (d) peptidoglycan.
+83. The imperfect fungi which are decomposers of litter and help in mineral cycling belong to (a) Phycomycetes (b) Ascomycetes (c) Deuteromycetes (d) Basidiomycetes.
+84. Choose the wrong statement. (a) Morels and truffles are poisonous mushrooms. (b) Yeast is unicellular and useful in fermentation. (c) Penicillium is multicellular and produces antibiotics. (d) Neurospora is used in the study of biochemical genetics
+85. Which one of the following matches is correct? (a) Mucor Reproduction by conjugation Ascomycetes (b) Agaricus Parasitic fungus Basidiomycetes (c) Phytophthora Aseptate mycelium Basidiomycetes (d) Alternaria Sexual reproduction absent Deuteromycetes
+86. Which one of the following fungi contains hallucinogens? (a) Morchella esculenta (b) Amanita muscaria (c) Neurospora sp. (d) Ustilago sp.
+87. Which one of the following is true for fungi? (a) They lack a rigid cell wall. (b) They are heterotrophs. (c) They lack nuclear membrane. (d) They are phagotrophs.
+88. The pathogen Microsporum responsible for ringworm disease in humans belongs to the same kingdom of organisms as that of (a) Taenia, a tapeworm (b) Wuchereria, a filarial worm (c) Rhizopus, a mould (d) Ascaris, a round worm.
+89. Single-celled eukaryotes are included in (a) protista (b) fungi (c) archaea (d) monera.
+90. Membrane-bound organelles are absent in (a) Saccharomyces (b) Streptococcus (c) Chlamydomonas (d) Plasmodium.
+91. Black (stem) rust of wheat is caused by (a) Alternaria solani (b) Ustilago nuda (c) Puccinia graminis (d) Xanthomonas oryzae.
+92. Which one is the wrong pairing for the disease and its causal organism? (a) Black rust of wheat-Puccinia graminis (b) Loose smut of wheat-Ustilago nuda (c) Root knot of vegetables-Meloidogyne sp. (d) Late blight of potato-Alternaria solani
+93. Which pair of the following belongs to basidiomycetes? (a) Puffballs and Claviceps (b) Peziza and stink horns (c) Morchella and mushrooms(d) Birds nest fungi and puffballs
+94. Which of the following environmental conditions are essential for optimum growth of Mucor on a piece of bread ? A. Temperature of about 25°C B. Temperature of about 5°C C. Relative humidity of about 5% D. Relative humidity of about 95% E. A shady place F. A brightly illuminated place Choose the answer from the following options. (a) B, C and F only (b) A, C and E only (c) A, D and E only (d) B, D and E only
+95. Which fungal disease spreads by seed and flowers? (a) Loose smut of wheat (b) Corn smut (c) Covered smut of barley (d) Soft rot of potato
+96. Which of the following secretes toxins during storage conditions of crop plants? (a) Aspergillus (b) Penicillium (c) Fusarium (d) Colletotrichum
+97. Black rust of wheat is caused by (a) Puccinia (b) Ustilago (c) Albugo (d) Phytophthora.
+98. Columella is a specialized structure found in the sporangium of (a) Spirogyra (b) Ulothrix (c) Rhizopus (d) none of these.
+99. Puccinia forms uredia and (a) telia on wheat leaves (b) aecia on barberry leaves (c) pycnia on barberry leaves (d) aecia on wheat leaves.
+100.Mycorrhiza is correctly described as (a) parasitic association between roots and some fungi (b) symbiotic relationship between fungi and roots of some higher plants (c) symbiosis of algae and fungi (d) relation of ants with the stem of some trees.
+101.The black rust of wheat is a fungal disease caused by (a) Albugo candida (b) Puccinia graminis tritici (c) Melampsora lini (d) Claviceps purpurea
+102. Select the wrong statement. (a) Cell wall is present in members of fungi and plantae. (b) Mushrooms belong to basidiomycetes. (c) Pseudopodia are locomotory and feeding structures in sporozoans. (d) Mitochondria are the powerhouse of the cell in all kingdoms except monera.
+103.Cell wall is absent in (a) Mycoplasma (b) Nostoc (c) Aspergillus (d) Funaria.
+104.True nucleus is absent in (a) Vaucheria (b) Volvox (c) Anabaena (d) Mucor.
+105.Nuclear membrane is absent in (a) Penicillium (b) Agaricus (c) Volvox (d) Nostoc.
+106.Absorptive heterotrophic nutrition is exhibited by (a) algae (b) fungi (c) bryophytes (d) pteridophytes.
+107.Pick up the wrong statement. (a) Some fungi are edible. (b) Nuclear membrane is present in Monera. (c) Cell wall is absent in Animalia. (d) Protists have photosynthetic and heterotrophic modes of nutrition.
+108.Which one of the following living organisms completely lacks a cell wall? (a) Cyanobacteria (b) Sea-fan (Gorgonia) (c) Saccharomyces (d) Blue-green algae
+109.Which of the following is correct about viroids? (a) They have RNA with protein coat. (b) They have free RNA without protein coat. (c) They have DNA with protein coat. (d) They have free DNA without protein coat
+110.Mad cow disease in cattle is caused by an organism which has (a) inert crystalline structure (b) abnormally folded protein (c) free RNA without protein coat (d) free DNA without protein coat
+111.Which of the following statements is incorrect? (a) Prions consist of abnormally folded proteins. (b) Viroids lack a protein coat. (c) Viruses are obligate parasites.(d) Infective constituent in viruses is the protein coat
+112.Viroids differ from viruses in having (a) DNA molecules without protein coat (b) RNA molecules with protein coat (c) RNA molecules without protein coat (d) DNA molecules with protein coat
+113.Which of the following statements is wrong for viroids? (a) They cause infections. (b) Their RNA is of high molecular weight. (c) They lack a protein coat. (d) They are smaller than viruses
+114. Select the wrong statement. (a) The term ‘contagium vivum fluidum’ was coined by M. W. Beijerinck. (b) Mosaic disease in tobacco and AIDS in human being are caused by viruses. (c) The viroids were discovered by D.J. Ivanowsky. (d) W.M. Stanley showed that viruses could be crystallised
+115.Which of the following shows coiled RNA strand and capsomeres? (a) Polio virus (b) Tobacco mosaic virus (c) Measles virus (d) Retrovirus
+116.Viruses have (a) DNA enclosed in a protein coat (b) prokaryotic nucleus (c) single chromosome (d) both DNA and RNA.
+117.Which statement is wrong for viruses? (a) All are parasites. (b) All of them have helical symmetry. (c) They have ability to synthesize nucleic acids and proteins. (d) Antibiotics have no effect on them.
+118.Which one single organism or the pair of organisms is correctly assigned to its or their named taxonomic group? (a) Paramecium and Plasmodium belong to the same kingdom as that of Penicillium. (b) Lichen is a composite organism formed from the symbiotic association of an algae and a protozoan.(c) Yeast used in making bread and beer is a fungus. (d) Nostoc and Anabaena are examples of protista
+119.Virus envelope is known as (a) capsid (b) virion (c) nucleoprotein (d) core.
+120.Given below is the diagram of a bacteriophage. In which one of the options all the four parts A, B, C and D are correct? A B C D (a) Tail fibres Head Sheath Collar (b) Sheath Collar Head Tail fibres (c) Head Sheath Collar Tail fibres (d) Collar Tail fibres Head Sheath
+121.T.O. Diener discovered a (a) free infectious DNA (b) infectious protein (c) bacteriophage(d) free infectious RNA.
+122.There exists a close association between the alga and the fungus within a lichen. The fungus (a) provides protection, anchorage and absorption for the algae (b) provides food for the alga (c) fixes the atmospheric nitrogen for the alga (d) releases oxygen for the alga.
+123.Which of the following statements is not true for retroviruses? (a) DNA is not present at any stage in the life cycle of retroviruses. (b) Retroviruses carry gene for RNA-dependent DNA polymerase. (c) The genetic material in mature retroviruses is RNA. (d) Retroviruses are causative agents for certain kinds of cancer in man.
+124.Viruses that infect bacteria multiply and cause their lysis, are called (a) lysozymes (b) lipolytic (c) lytic (d) lysogenic
+125. Lichens are well known combination of an alga and a fungus where fungus has (a) a saprophytic relationship with the alga (b) an epiphytic relationship with the alga (c) a parasitic relationship with alga (d) a symbiotic relationship with alga.
+126.Which one of the following statements about viruses is correct? (a) Viruses possess their own metabolic system. (b) All viruses contain both RNA and DNA. (c) Viruses are obligate parasites. (d) Nucleic acid of viruses is known as capsid.
+127.Tobacco mosaic virus is a tubular filament of size (a) 300 × 10nm (b) 300 × 5nm (c) 300 × 20nm (d) 700 × 30nm.
+128.Viruses are no more “alive” than isolated chromosomes because (a) they require both RNA and DNA (b) they both need food molecules (c) they both require oxygen for respiration (d) both require the environment of a cell to replicate.
+129.Cauliflower mosaic virus contains (a) ss RNA (b) ds RNA (c) ds DNA (d) ss DNA
+130.Viruses possess (a) ribosomes to synthesize protein (b) organelle for its vital mechanism (c) either DNA or RNA (d) none of these.
+131.Most of the lichens consist of (a) green algae and ascomycetes (b) brown algae and higher plant (c) blue green algae and basidiomycetes (d) red algae and ascomycetes.
+132.What is the genetic material in influenza virus? (a) Double helical DNA (b) RNA (c) Single helix DNA (d) None of these
+133.Which one of the following statement about lichens is wrong? (a) These grow very rapidly (2 cm per day). (b) They show fungal and algal symbiotic relationships. (c) Some of its species are eaten by reindeers. (d) These are pollution indicators.
+134.The tailed bacteriophages are (a) motile on surface of bacteria (b) non-motile (c) motile on surface of plant leaves (d) actively motile in water
+135.Tobacco mosaic virus (TMV) genes are (a) single stranded RNA (b) double stranded DNA (c) proteinaceous (d) double stranded RNA
+136.Organisms which are indicator of SO2 pollution of air (a) mosses (b) lichens (c) mushrooms (d) puffballs.
+137. Lichens indicate SO2 pollution because they (a) show association between algae and fungi (b) grow faster than others (c) are sensitive to SO2 (d) flourish in SO2 rich environment.
+1. (b) 2. (c) 3. (a) 4. (d) 5. (b) 6. (c) 7. (b) 8. (b) 9. (a) 10. (d) 11. (b) 12. (c) 13. (b) 14. (b) 15. (a) 16. (a) 17. (c) 18. (b) 19. (d) 20. (d) 21. (a) 22. (a) 23. (d) 24. (c) 25. (c) 26. (d) 27. (b) 28. (b) 29. (b) 30. (b) 31. (a) 32. (a) 33. (a) 34. (b) 35. (d) 36. (a) 37. (a) 38. (b) 39. (b) 40. (b) 41. (a) 42. (b) 43. (d) 44. (a) 45. (a) 46. (b) 47. (c) 48. (a) 49. (b) 50. (c) 51. (a) 52. (a) 53. (a) 54. (a) 55. (b) 56. (b) 57. (d) 58. (a) 59. (d) 60. (c) 61. (b) 62. (a) 63. (d) 64. (d) 65. (a) 66. (d) 67. (a) 68. (a) 69. (a) 70. (b) 71. (c) 72. (c) 73. (a) 74. (a) 75. (b) 76. (a) 77. (a) 78. (a) 79. (c) 80. (b) 81. (a) 82. (c) 83. (c) 84. (a) 85. (d) 86. (b) 87. (b) 88. (c) 89. (a) 90. (b) 91. (c) 92. (d) 93. (d) 94. (c) 95. (a) 96. (a) 97. (a) 98. (c) 99. (a) 100. (b) 101. (b) 102. (c) 103. (a) 104. (c) 105. (d) 106. (b) 107. (b) 108. (b) 109. (b) 110. (b) 111. (d) 112. (c) 113. (b) 114. (c) 115. (b) 116. (a) 117. (b) 118. (c) 119. (a) 120. (c) 121. (d) 122. (a) 123. (a) 124. (c) 125. (d) 126. (c) 127. (c) 128. (d) 129. (c) 130. (c) 131. (a) 132. (b) 133. (a) 134. (a) 135. (a) 136. (b) 137. (c)

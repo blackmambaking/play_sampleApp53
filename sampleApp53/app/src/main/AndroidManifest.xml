@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sampleapp53">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the "MyLocation" functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <uses-feature android:name="android.hardware.camera.any" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Playy"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SampleApp53">
+        <activity android:name=".GeneratingQuestions.ResultActivityForCaptures"></activity>
+        <activity android:name=".GeneratingQuestions.MainActivityForCaptures"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".GeneratingQuestions.Scanning"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".GeneratingQuestions.SelectingKeyWords"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".squadMode.result_squad_mode"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".oneVone.resultForOneVOne"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".oneVone.MainActivityForOneVOne"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".oneVone.oneVoneClass"
+            android:screenOrientation="portrait"/>
+
+
+        <meta-data
+            android:name="com.google.mlkit.vision.DEPENDENCIES"
+            android:value="ocr" /> <!-- To use multiple models: android:value="ocr,model2,model3" -->
+        <activity
+            android:name=".basicLayout.loginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".markedQuestions.resultMarkedQuestions"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".markedQuestions.MainActivityForMarkedQuestions"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".markedQuestions.MarkedQuestions"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".squadMode.MainActivityForSqadPlay"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".squadMode.JoinRoom"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".squadMode.CreateRoom"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".basicLayout.bookSelectionMenu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".basicLayout.ChapterSelection"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".basicLayout.dashboard"
+            android:label="@string/title_activity_dashboard"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.SampleApp53.NoActionBar" />
+        <activity
+            android:name=".soloMode.resultActivity"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name=".MessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name=".MainActivity2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".soloMode.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".basicLayout.SplashScreen"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

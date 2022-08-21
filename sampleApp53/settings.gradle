@@ -1,0 +1,3 @@
+rootProject.name = "sampleApp53"
+include ':app'
+include ':scanlibrary'
